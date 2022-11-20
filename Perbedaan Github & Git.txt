@@ -1,0 +1,19 @@
+Git
+1. Meng-install software di penyimpanan lokal
+2. Dikelola oleh The Linux Foundation
+3. Berfokus pada version control dan code sharing
+4. Akses secara offline
+5. Tidak menggunakan fitur user management
+6. Menyediakan desktop interface bernama “Git GUI”
+7. Bersaing dengan Mercurial, Subversion, IBM, Rational Team, Concert, dan ClearCase
+8. Open sourced licensed
+
+Github
+1. Host melalui layanan cloud
+2. Diakuisisi oleh Microsoft pada 2018
+3. Berfokus pada source code hosting terpusat
+4. Akses secara online
+5. Menggunakan user management
+6. Menggunakan nama desktop interface “GitHub Desktop”
+7. Bersaing dengan GitLab dan Atlassian BitBucket
+8. Pilihan bagi pengguna gratis dan pengguna berbayar
